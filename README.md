@@ -1,7 +1,7 @@
 Oii! Eu sou o João Pedro
 
 - 🌱 Atualmente estou estudando "desenvolvimento de games"
-- - 🕵️ Aprocura de uma equipe de gamedev, game designer, etc...
+- 🕵️ Aprocura de uma equipe de gamedev, game designer, etc...
 - 👨 Pronouns: ele/dele
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joaof&show_icons=true&theme=transparent)
